@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="800" height="500"><rect width="100%" height="100%" fill="#fbf4e4"/>
+      <circle cx="330" cy="60" r="34" fill="#ffc94a"/>
+      <path d="M0 170 Q100 140 200 165 T400 155 V250 H0 Z" fill="#0e6e64"/>
+      <path d="M0 195 Q110 175 200 195 T400 188 V250 H0 Z" fill="#0a4d46"/>
+      <path d="M60 250 Q90 190 140 190 Q190 190 210 250 Z" fill="#4c9a2a"/>
+      <path d="M250 250 Q270 210 300 210 Q330 210 340 250 Z" fill="#2f6b19"/>
+    </svg>
